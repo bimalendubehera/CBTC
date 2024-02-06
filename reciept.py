@@ -11,11 +11,11 @@ DATA = [
         "2 Year",
         "9,999.00/-",
     ],
-    [ "17/08/2023", "Cyber Security", "6 months", "9,999.00/-"],
-    [ "05/07/2023", "Data Structure and Algorithm","3 month","15,000.00/-"],
-    [ "Sub Total", "", "", "33,998.00/-"],
+    [ "28/01/2024", "Cyber Security", "6 months", "9,999.00/-"],
+    [ "05/02/2024", "Data Structure and Algorithm","3 month","20,000.00/-"],
+    [ "Sub Total", "", "", "39,998.00/-"],
     [ "Discount", "", "", "-5,000.00/-"],
-    [ "Total", "", "", "28,998.00/-"],
+    [ "Total", "", "", "34,998.00/-"],
 ]
 pdf = SimpleDocTemplate( "receipt.pdf" , pagesize = A4 )
   
