@@ -1,6 +1,5 @@
 import random
 choices = ["Rock", "Scissors", "Paper"]
-
 while True:
     computer_score = 0
     user_score = 0
